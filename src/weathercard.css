@@ -1,0 +1,44 @@
+.WeatherCard {
+  background-image: url(https://purepng.com/public/uploads/large/purepng.com-phone-in-handphone-in-handhandheldpersonal-computermobileholding-smart-phone-17015283655090ozby.png);
+  width: 600px;
+  height: 950px;
+  text-align: center;
+  background-size: cover;
+}
+body {
+  background-color: white;
+  background-image: url(https://images.pexels.com/photos/2524360/pexels-photo-2524360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.container {
+  padding-left: 300px;
+  padding-top: 180px;
+}
+.mainComponents {
+  padding-top: 80px;
+  padding-right: 66px;
+}
+.comp1 {
+  background-color: peachpuff;
+  width: 351px;
+  padding-left: 0px;
+  margin-left: 88px;
+}
+.comp2 {
+  background-color: peachpuff;
+  width: 351px;
+  padding-left: 0px;
+  margin-left: 88px;
+}
+.citydata {
+  background-color: peachpuff;
+  width: 351px;
+  padding-left: 0px;
+  margin-left: 88px;
+}
+.weather {
+  height: 90px;
+  text-align: left;
+}
